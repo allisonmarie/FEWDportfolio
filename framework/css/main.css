@@ -1,6 +1,4 @@
-*{
-	border: 1px solid red !important;
-}
+
 *{
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -9,6 +7,9 @@
 }
 * {
 	font-family: Lato;
+}
+* {
+	padding: 5px;
 }
 .grid {
 	margin: 0 auto;
