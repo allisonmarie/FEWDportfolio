@@ -19,6 +19,7 @@ p {
 }
 img {
 	vertical-align: center;
+	max-width: 100%;
 }
 .grid {
 	margin: 0 auto;
